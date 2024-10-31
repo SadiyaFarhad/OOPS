@@ -5,4 +5,4 @@ Object-Oriented Programming (OOP) is a coding approach using "objects" that cont
 2. Abstraction: Hiding complex details and focusing on main features.
 3. Inheritance: Reusing code by creating new classes from existing ones.
 4. Polymorphism: Allowing different classes to be used interchangeably.
-OOP promotes modular, reusable, and organized code.
+
